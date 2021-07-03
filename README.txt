@@ -1,0 +1,1 @@
+HikersWatch app is designed to show user his/her current location.
